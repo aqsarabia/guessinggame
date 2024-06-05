@@ -1,0 +1,22 @@
+{
+  "name": "klds098number_guessing_game",
+  "version": "1.0.1",
+  "description": "This is number guessing game on typescript",
+  "main": "index.js",
+  "type": "module",
+  "publishconfig":{
+    "access":"public"
+  },
+  "bin":"index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rabia syed",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.23"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
